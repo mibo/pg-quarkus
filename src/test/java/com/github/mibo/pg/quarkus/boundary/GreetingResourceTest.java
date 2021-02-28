@@ -1,4 +1,4 @@
-package com.github.mibo.pg;
+package com.github.mibo.pg.quarkus.boundary;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
